@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="BusinessCompany social preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="150" cy="140" r="72" fill="#ffffff" opacity="0.12"/>
+  <circle cx="1040" cy="500" r="120" fill="#ffffff" opacity="0.08"/>
+  <rect x="90" y="90" width="150" height="150" rx="36" fill="#ffffff" opacity="0.96"/>
+  <path d="M117 205V120h42l36 42V120h36v85h-36l-36-42v42h-42Z" fill="#0f172a"/>
+  <text x="90" y="355" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700">BusinessCompany</text>
+  <text x="90" y="430" fill="#dbeafe" font-family="Arial, Helvetica, sans-serif" font-size="28">Strategy. Branding. Growth.</text>
+  <rect x="90" y="470" width="300" height="10" rx="5" fill="#60a5fa"/>
+  <text x="90" y="535" fill="#e2e8f0" font-family="Arial, Helvetica, sans-serif" font-size="26">www.businesscompany.example.com</text>
+</svg>
