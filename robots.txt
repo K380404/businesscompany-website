@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://businesscompany.netlify.app/sitemap.xml
+Sitemap: https://businesscompany-hq.netlify.app/sitemap.xml
